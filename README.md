@@ -7,6 +7,8 @@ A simple Notepad made using Python library Tkinter. This notepad is used to code
 ### ✨ Requirements
 - A good Python IDE
 - Python 3.7.4
+<br />
+<br />
 
 ### ✨ Converting to EXE
 ```
@@ -17,4 +19,8 @@ pyinstaller.exe --noconsole --onefile --icon=icon.ico main.py
 💫 --icon -> For icon file. <br />
 💫 --onefile -> Converting it into one file, instead of many. <br />
 💫 --noconsole -> Not showing black screen while starting the app. <br />
+<br />
+
+### ✨ Download the Installer
+<a download href = './Tkinter-Notepad.exe'>Tkinter-Notepad.exe</a>
 
